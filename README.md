@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Romelyn  
 
-<!--
-**romeeyy/romeeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS 3rd Year Student – Bohol Island State University  
+💻 Love coding and building creative projects  
+✨ Exploring how programming can mix with design and problem-solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me  
+- 💻 Passionate about Python and software development  
+- 🎨 Enjoy combining creativity with code (like graphics & visual computing)  
+- 🚀 Interested in building apps that help communities  
+
+---
+
+## 🔧 Skills  
+- **Languages:** Python, C, Java  
+- **Tools:** PyCharm, GitHub, VS Code  
+- **Libraries:** Pillow, Tkinter, Django (learning)  
+
+---
+
+## 📫 Let’s Connect  
+- ✉️ Email: romelynpinoliad47@gmail.com  
+- 🌐 GitHub: [github.com/romeeyy](https://github.com/romeeyy)
