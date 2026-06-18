@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Romelyn  
 
-🎓 BSCS 3rd Year Student – Bohol Island State University  
+🎓 BSCS 4th Year Student – Bohol Island State University  
 💻 Love coding and building creative projects  
 ✨ Exploring how programming can mix with design and problem-solving  
 
